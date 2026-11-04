@@ -165,7 +165,7 @@ Source Data  (Employees · Attrition · Compensation · Performance · Hiring)
 
 This page gives a comprehensive view of the overall workforce distribution, hiring trends and key HR metrics. Seven dropdown slicers (**Financial Year, Quarter, Department, Business Unit, City, Job Level, Gender**) sit at the top, followed by five KPI cards, four visuals and a business-unit summary table.
 
-![Workforce Overview Dashboard](Assets/Workforce_Overview.png)
+![Workforce Overview Dashboard](Screenshots/Workforce_Overview.png)
 
 ---
 
@@ -208,7 +208,7 @@ This page gives a comprehensive view of the overall workforce distribution, hiri
 
 A deep dive into employee attrition trends and retention drivers. Slicers: **Year, Department, City, Job Role, Gender**.
 
-![Attrition & Retention Dashboard](Assets/Attrition_Retention.png)
+![Attrition & Retention Dashboard](Screenshots/Attrition_Retention.png)
 
 ---
 
@@ -253,7 +253,7 @@ A deep dive into employee attrition trends and retention drivers. Slicers: **Yea
 
 A comprehensive view of compensation trends and salary insights. Slicers: **Department, Job Level, Grade, Location**.
 
-![Compensation & Salary Analytics Dashboard](Assets/Compensation_Analytics.png)
+![Compensation & Salary Analytics Dashboard](Screenshots/Compensation_Analytics.png)
 
 ---
 
@@ -298,7 +298,7 @@ A comprehensive view of compensation trends and salary insights. Slicers: **Depa
 
 Insights on employee performance, promotions and learning effectiveness. Slicers: **Department, Location, Grade, Business Unit**.
 
-![Performance & Promotion Dashboard](Assets/Performance_Promotion.png)
+![Performance & Promotion Dashboard](Screenshots/Performance_Promotion.png)
 
 ---
 
@@ -342,7 +342,7 @@ Insights on employee performance, promotions and learning effectiveness. Slicers
 
 A strategic overview of workforce health and HR performance, built for leadership reviews. It combines headline KPIs, the hiring lifecycle funnel, workforce cost, an attrition-versus-salary quadrant and a department health scorecard.
 
-![Executive HR Summary Dashboard](Assets/Executive_Summary.png)
+![Executive HR Summary Dashboard](Screenshots/Executive_Summary.png)
 
 ---
 
